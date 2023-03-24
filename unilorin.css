@@ -19,7 +19,7 @@ src: url("opificio.ttf")
     border-radius: 20px;
 }
 .head{
-  background-image: url("unilorin.jpg");
+  background-image: url("images//unilorin.jpg");
   background-size:cover;
   height:500px;
   display:flex;
@@ -57,7 +57,7 @@ src: url("opificio.ttf")
     border:5px solid darkblue;
     border-radius: 10px;
     height: 150px;
-    background-image: url("uni4.jpg");
+    background-image: url("images//uni4.jpg");
     background-size: cover;
     border-radius: 50%;
     margin: 10px;
@@ -69,7 +69,7 @@ src: url("opificio.ttf")
   border: 5px solid darkblue;
   border-radius: 10px;
   height: 150px;
-  background-image: url("images (8).jpeg");
+  background-image: url("images//images (8).jpeg");
   background-size: cover;
   border-radius: 50%;
   margin: 10px;
@@ -81,7 +81,7 @@ src: url("opificio.ttf")
   border: 5px solid darkblue;
   border-radius: 10px;
   height: 150px;
-  background-image: url("uni3.jpg");
+  background-image: url("images//uni3.jpg");
   background-size: cover;
   border-radius: 50%;
   margin: 10px;
